@@ -67,7 +67,7 @@ Developed by: PERARASU K RegisterNumber: 25004665
 <img width="1013" height="551" alt="image" src="https://github.com/user-attachments/assets/307c3269-4153-4fc8-8fe9-da6650fc12e7" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1322" height="170" alt="image" src="https://github.com/user-attachments/assets/a927b14f-425e-444c-8dd7-e744da109d9b" />
+![image](https://github.com/user-attachments/assets/77777f25-4b4f-4668-87f2-907191c2516a)
 
 **RESULTS**
 Thus SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
